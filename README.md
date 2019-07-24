@@ -25,3 +25,4 @@ Warmly welcome to comment feelings when you use and propose the desired features
 
 ## License MIT
 
+[CoenraadS.bracket-pair-colorizer] Accessing a window scoped configuration for a resource is not expected. To associate 'bracketPairColorizer.excludedLanguages' to a resource, define its scope to 'resource' in configuration contributions in 'package.json'.
